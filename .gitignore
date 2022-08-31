@@ -1,6 +1,9 @@
 # Each user should get to have their own clang format configuration
 .clang-format
 
+# TypeScript with Next.js
+next-env.d.ts
+
 # Logs
 logs
 *.log
