@@ -1,0 +1,24 @@
+.article {
+    padding-left: 0;
+    display: block;
+    text-align: center;
+    margin: auto;
+    background-color: hsl(200, 10%, 10%);
+    padding: 2rem 0 2rem 0rem;
+    width: 90%;
+    border-radius: 2rem;
+}
+
+.article ul {
+    color: #eaeaea;
+    margin: auto;
+    line-height: 30px;
+    list-style-position: inside;
+    font-size: 1.5em;
+}
+
+.article p {
+    margin: auto;
+    text-align: center;
+    width: 80%;
+}
