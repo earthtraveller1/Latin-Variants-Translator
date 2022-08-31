@@ -1,6 +1,6 @@
 # Latin Variants Translator
 
-**I am NOT the original author of this project. This is merely a port. All issues related to the project itself should go to the original project [here](https://github.com/anthonyhuang07/Latin-Variants-Translator).
+**I am NOT the original author of this project. This is merely a port. All issues related to the project itself should go to the original project [here](https://github.com/anthonyhuang07/Latin-Variants-Translator).**
 
 A translator for Pig Latin, Egg Latin, and Bacon Omelette Latin.
 
