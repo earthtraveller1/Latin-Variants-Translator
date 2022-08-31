@@ -1,0 +1,12 @@
+.footer {
+    margin: auto;
+    text-align: center;
+    font-family: 'Aldrich', Helvetica, sans-serif;
+    padding: 1.5em;
+}
+
+.footer a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1.5em;
+}
