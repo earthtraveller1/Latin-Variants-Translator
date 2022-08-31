@@ -1,0 +1,4 @@
+public/*.html linguist-vendored
+public/pages/*.html linguist-vendored
+
+public/scripts/*.js linguist-generated
