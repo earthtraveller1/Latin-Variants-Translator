@@ -1,0 +1,66 @@
+.main {
+    color: #ffffff;
+    text-align: center;
+}
+
+.main h1 {
+    font-family: 'Aldrich', monospace;
+    font-size: 3em;
+    color: #ffffff;
+    padding: 1rem;
+}
+
+.main p {
+    font-family: 'Fira Code', monospace;
+    font-size: 1.5em;
+    width: 90%;
+}
+
+.main a {
+    color: #a2ddff;
+    text-decoration: none;
+    transition: text-shadow 0.3s;
+}
+
+.main ul {
+    font-family: 'Fira Code', 'Helvetica Neue', sans-serif;
+    font-size: 1.4em;
+    width: 90%;
+    list-style-position: inside;
+    margin: auto;
+}
+
+.main h2 {
+    font-family: 'Aldrich', Helvetica, sans-serif;
+    margin: 15px;
+    font-size: 1.75em;
+}
+
+.main a:hover {
+    text-shadow: 0 0 5px #4b93ff;
+}
+
+.main img {
+    padding: 1.5rem;
+}
+
+.main hr {
+    margin: auto;
+    margin-top: 3rem;
+    border: white solid 0.1rem;
+    border-radius: 100rem;
+    width: 75%;
+}
+
+.main textarea {
+    box-sizing: border-box;
+    border-radius: 0.8rem;
+    background-color: rgb(25, 25, 25);
+    color: white;
+    border: 3px solid rgb(125, 125, 125);
+    padding: 1rem;
+    height: 10rem;
+    resize: none;
+    width: 50%;
+    font-family: 'Fira Code', 'Helvetica Neue', sans-serif;
+}
