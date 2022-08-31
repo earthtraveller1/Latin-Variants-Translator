@@ -1,6 +1,6 @@
 import Head from "next/head"
 
-import Main from '../components/main'
+import CustomMain from '../components/custom-main'
 import CoolTitle from "../components/cool-title"
 import CustomArticle from "../components/custom-article"
 import Link from "next/link"
@@ -12,7 +12,7 @@ export default function Index() {
                 <title>Hello!</title>
             </Head>
 
-            <Main>
+            <CustomMain>
                 <CoolTitle>Latin Variants</CoolTitle>
 
                 <CustomArticle>
@@ -25,7 +25,7 @@ export default function Index() {
                         <li><a href="./pages/bolatin">Bacon & Omelette Latin <abbr title="Translating issues (both forwards and back) do not recommend using for the time being">[BROKEN]</abbr></a></li>
                     </ul>
                 </CustomArticle>
-            </Main>
+            </CustomMain>
         </>
     )
 }
