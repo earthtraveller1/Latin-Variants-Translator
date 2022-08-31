@@ -64,3 +64,25 @@
     width: 50%;
     font-family: 'Fira Code', 'Helvetica Neue', sans-serif;
 }
+
+@media screen and (max-width: 900px){
+    .main textarea{
+        font-size: 1.5em;
+        width: 80%;
+        height: 12.5rem;
+    } .main p{
+        font-size: 1.5em;
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 500px){
+    .main textarea{
+        font-size: 1.1em;
+        width: 80%;
+        height: 12.5rem;
+    } .main p{
+        font-size: 1.1em;
+        width: 90%;
+    }
+}
